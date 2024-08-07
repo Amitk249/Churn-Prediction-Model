@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze IBM sales data to identify areas with the highest sales churn and to determine which services are most prone to churn and impact sales. By implementing a machine learning model, we aim to provide insights and predictions to help mitigate churn and improve sales strategies.
+Analyzing IBM sales data to identify areas with the highest sales churn and to determine which services are most prone to churn and impact sales. By implementing a machine learning model, we aim to provide insights and predictions to help mitigate churn and improve sales strategies.
 
 ## Key Features
 
